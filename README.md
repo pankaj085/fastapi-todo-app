@@ -19,7 +19,7 @@ A fully asynchronous To-Do application built with **FastAPI** and **PostgreSQL**
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/fastapi-todo-app.git
+git clone https://github.com/pankaj085/fastapi-todo-app.git
 cd fastapi-todo-app
 ```
 

@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ### 4. Set Up PostgreSQL
 - Install and configure PostgreSQL on your system.
 - Create a new database for the application.
-- Update the `.env` file with your database credentials:
+- Create the `.env` file and add your database credentials:
   ```env
   DATABASE_URL=postgresql+asyncpg://[your_database_username]:[your_password]@localhost/[your_database_name]
   ```

@@ -89,14 +89,6 @@ fastapi_todo_app/
 
 ---
 
-## 🧪 Running Tests
-To run tests for the application, use the following command:
-```bash
-pytest
-```
-
----
-
 ## 🛡️ Environment Variables
 The application uses a `.env` file to manage environment variables. Below are the required variables:
 - `DATABASE_URL`: The connection string for the PostgreSQL database.

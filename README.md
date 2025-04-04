@@ -70,7 +70,7 @@ FastAPI provides interactive API documentation:
 
 ## 🗂️ Project Structure
 ```
-project1/
+fastapi_todo_app/
 ├── app/
 │   ├── __init__.py          # Package initializer
 │   ├── main.py              # Application entry point

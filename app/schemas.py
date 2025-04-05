@@ -33,5 +33,6 @@ class TaskResponse(BaseModel):
 
 # Schema for listing multiple tasks
 class TaskListResponse(BaseModel):
-    tasks: List[TaskResponse]  # List of tasks
     count: int  # Total number of tasks
+    tasks: List[TaskResponse]  # List of tasks
+    
